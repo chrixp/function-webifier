@@ -1,0 +1,5 @@
+FROM node:12
+
+WORKDIR /app
+
+COPY ./temp/2020-12-18T18:52:45.760Z .

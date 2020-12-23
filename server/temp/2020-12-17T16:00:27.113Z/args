@@ -1,0 +1,1 @@
+{"args":[{"label":"protein","argument":"protein","required":false,"type":"Text"},{"label":"pLogo","argument":"pLogo","required":false,"type":"Text"},{"label":"opts","argument":"opts","required":false,"type":"Number"}],"functionName":"My Function"}

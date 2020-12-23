@@ -1,0 +1,1 @@
+{"args":[{"label":"First Number","argument":"a","required":false,"type":"Number"},{"label":"Second Number","argument":"b","required":false,"type":"Number"}],"functionName":"Dan Multiply Function"}

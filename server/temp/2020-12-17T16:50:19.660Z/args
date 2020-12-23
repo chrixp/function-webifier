@@ -1,0 +1,1 @@
+{"args":[{"label":"First Num","argument":"a","required":true,"type":"Number"},{"label":"Second Num","argument":"b","required":true,"type":"Number"},{"label":"Third Num","argument":"c","required":true,"type":"Number"}],"functionName":"My multiply function"}
